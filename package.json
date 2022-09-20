@@ -1,0 +1,29 @@
+{
+  "name": "link-agen-deposit-500055v",
+  "theme": "ui",
+  "version": "1.1.4",
+  "description": "link agen deposit 5000 gacor",
+  "keywords": [
+    "agen 5000",
+    "deposit 5000",
+    "agen 5000 login",
+    "agen 5000 slot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Melaniyanicam/link-agen-deposit-5000.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Melaniyanicam/link-agen-deposit-5000/issues"
+  },
+  "homepage": "https://github.com/Melaniyanicam/link-agen-deposit-5000#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
